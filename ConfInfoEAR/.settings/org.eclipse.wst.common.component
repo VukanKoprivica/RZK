@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ConfInfoEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="ConfInfoJPA.jar" deploy-path="/lib" handle="module:/resource/ConfInfoJPA/ConfInfoJPA">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ConfInfoEJB.jar" deploy-path="/" handle="module:/resource/ConfInfoEJB/ConfInfoEJB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ConfInfoWeb.war" deploy-path="/" handle="module:/resource/ConfInfoWeb/ConfInfoWeb">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

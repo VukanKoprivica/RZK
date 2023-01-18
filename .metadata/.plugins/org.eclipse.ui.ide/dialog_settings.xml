@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\vukan\Dropbox\My PC (PC)\Downloads\Konferencije2022.zip"/>
+			<item value="C:\Users\vukan\Dropbox\My PC (PC)\Downloads\JMSMenjacnica.zip"/>
+			<item value="C:\Users\vukan\Dropbox\My PC (PC)\Downloads\Zadatak (7).zip"/>
+			<item value="C:\Users\vukan\Dropbox\My PC (PC)\Downloads\OGL-Temp.zip"/>
+			<item value="C:\Users\vukan\Dropbox\My PC (PC)\Downloads\vezbe2-resenje.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

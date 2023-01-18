@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects>
+  <project name="ConfJPA"/>
+ </depends-on-projects>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/validation/api/main/jakarta.validation-api-2.0.2.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/jms/api/main/jboss-jms-api_2.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/faces/api/main/jboss-jsf-api_2.3_spec-3.1.0.SP01.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-compat-1.2.6-RC1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/c-1_0.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/fmt-1_0.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/sql-1_0.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/x-1_0.tld" project="BlogJPA"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-4.7.7.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/batch/api/main/jboss-batch-api_1.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/management/j2ee/api/main/jboss-j2eemgmt-api_1.1_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/jws/api/main/jsr181-api-1.0-MR1.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/security/jacc/api/main/jboss-jacc-api_1.5_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/org/picketbox/main/picketbox-commons-1.0.0.final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/xml/ws/api/main/jboss-jaxws-api_2.3_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/org/jboss/logging/main/jboss-logging-3.4.3.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/persistence/api/main/jakarta.persistence-api-2.2.3.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/wsdl4j/api/main/wsdl4j-1.6.3.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/websocket/api/main/jboss-websocket-api_1.1_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/security/auth/message/api/main/jboss-jaspi-api_1.1_spec-2.0.1.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/enterprise/api/main/jakarta.enterprise.cdi-api-2.0.2.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_4.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/interceptor/api/main/jboss-interceptors-api_1.2_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/annotation/api/main/jboss-annotations-api_1.3_spec-2.0.1.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/org/picketbox/main/picketbox-infinispan-5.0.3.Final-redhat-00008.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/org/wildfly/common/main/wildfly-common-1.6.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/servlet/jsp/api/main/jboss-jsp-api_2.3_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/xml/soap/api/main/jboss-saaj-api_1.4_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-4.7.7.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/org/jboss/ejb3/main/jboss-ejb3-ext-api-2.3.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/ejb/api/main/jboss-ejb-api_3.2_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/ws/rs/api/main/jboss-jaxrs-api_2.1_spec-2.0.2.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/xml/bind/api/main/jboss-jaxb-api_2.3_spec-2.0.1.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/mail/api/main/jakarta.mail-1.6.7.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/resource/api/main/jboss-connector-api_1.7_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/org/jboss/as/controller-client/main/wildfly-controller-client-18.1.2.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/activation/api/main/jakarta.activation-1.2.2.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/enterprise/concurrent/api/main/jboss-concurrency-api_1.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/json/api/main/jakarta.json-api-1.1.6.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/inject/api/main/jakarta.inject-api-1.0.5.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/el/api/main/jboss-el-api_3.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/org/picketbox/main/picketbox-5.0.3.Final-redhat-00008.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/org/jboss/dmr/main/jboss-dmr-1.6.1.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/transaction/api/main/jboss-transaction-api_1.3_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-impl-1.2.6-RC1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/c-1_0-rt.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/c-1_1.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/c.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/fmt-1_0-rt.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/fmt.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/fn.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/permittedtaglibs.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/scriptfree.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/sql-1_0-rt.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/sql.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/x-1_0-rt.tld" project="BlogJPA"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/x.tld" project="BlogJPA"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/org/hibernate/validator/main/hibernate-validator-6.0.23.Final.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-spec-1.2.6-RC1.jar"/>
+  <path value="C:/Users/vukan/faks/wildfly-26.1.2.Final/modules/system/layers/base/javax/xml/rpc/api/main/jboss-jaxrpc-api_1.1_spec-2.0.0.Final.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource
+    name="%1;%2;%3;%4;%5;%6;%7;%8;%9;%10;%11;%12;%13;%14;%15;%16;%17;%18;%19;%20;%21;%22;%23;%24;%25;%26;%27;%28;%29;%30;%31;%32;%33;%34;%35;%36;%37;%38;%39;%40;%41;%42;%43;%44;%45;%46;%47;%48;%49;%50;%51;%52;%53;%54;%55;%56;%57;%58;%59;%60;%61;%62;%63;%64;%65;%66;%67;%68;%69;%70;%71;%72;%73;%74;%75;%76;%77;%78;%79;%80;%81;%82;%83;%84;%85;%86;%87;%88;%89;%90;%91;%92;%93;%94;%95;%96;%97;%98;%99;%100;%101;%102;%103;%104;%105;%106;%107;%108;%109;%110;%111;%112;%113;%114;%115;" path="%0"/>
+  </core>
+  <core validator-id="batch-verification"/>
+  <el/>
+ </validation>
+ <aliases>
+  <alias path="/ConfEJB/ejbModule/conf/ArrayOftCountryInfo.class" value="%1"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCountryNamesGroupedByContinentResponse.java" value="%2"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfLanguagesByCode.class" value="%3"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCurrenciesByNameResponse.class" value="%4"/>
+  <alias path="/ConfEJB/ejbModule/conf/TCurrency.class" value="%5"/>
+  <alias path="/ConfEJB/ejbModule/conf/FullCountryInfoResponse.java" value="%6"/>
+  <alias path="/ConfEJB/ejbModule/conf/TCountryInfo.class" value="%7"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfCountryNamesByName.java" value="%8"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCurrenciesByCodeResponse.class" value="%9"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/CountryIntPhoneCodeResponse.class" value="%10"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/CountriesUsingCurrencyResponse.class" value="%11"/>
+  <alias path="/ConfEJB/ejbModule/conf/TContinent.class" value="%12"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCurrenciesByNameResponse.java" value="%13"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryInfoService.class" value="%14"/>
+  <alias path="/ConfEJB/ejbModule/conf/TCountryCodeAndName.class" value="%15"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCurrenciesByCodeResponse.java" value="%16"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfContinentsByNameResponse.class" value="%17"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfContinentsByNameResponse.java" value="%18"/>
+  <alias path="/ConfEJB/ejbModule/conf/CapitalCity.class" value="%19"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryCurrency.class" value="%20"/>
+  <alias path="/ConfEJB/ejbModule/conf/FullCountryInfoAllCountries.java" value="%21"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryIntPhoneCode.class" value="%22"/>
+  <alias path="/ConfEJB/ejbModule/conf/package-info.java" value="%0"/>
+  <alias path="/ConfEJB/ejbModule/conf/LanguageISOCode.class" value="%23"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfCurrenciesByCode.class" value="%24"/>
+  <alias path="/ConfEJB/ejbModule/conf/LanguageName.java" value="%25"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCountryNamesByNameResponse.class" value="%26"/>
+  <alias path="/ConfEJB/ejbModule/conf/CurrencyNameResponse.java" value="%27"/>
+  <alias path="/ConfEJB/ejbModule/conf/ArrayOftCountryInfo.java" value="%28"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryInfoServiceSoapType.java" value="%29"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfCurrenciesByName.class" value="%30"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryNameResponse.class" value="%31"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCountryNamesByCodeResponse.class" value="%32"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfLanguagesByCode.java" value="%33"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfContinentsByCode.java" value="%34"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfLanguagesByName.class" value="%35"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfCurrenciesByCode.java" value="%36"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfLanguagesByNameResponse.java" value="%37"/>
+  <alias path="/ConfEJB/ejbModule/conf/ArrayOftContinent.java" value="%38"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfContinentsByCodeResponse.java" value="%39"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfLanguagesByNameResponse.class" value="%40"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryISOCodeResponse.java" value="%41"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfLanguagesByCodeResponse.class" value="%42"/>
+  <alias path="/ConfEJB/ejbModule/conf/ObjectFactory.java" value="%43"/>
+  <alias path="/ConfEJB/ejbModule/conf/package-info.class" value="%44"/>
+  <alias path="/ConfEJB/ejbModule/conf/CapitalCity.java" value="%45"/>
+  <alias path="/ConfEJB/ejbModule/conf/ArrayOftCurrency.java" value="%46"/>
+  <alias path="/ConfEJB/ejbModule/conf/CapitalCityResponse.class" value="%47"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfLanguagesByName.java" value="%48"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfContinentsByName.class" value="%49"/>
+  <alias path="/ConfEJB/ejbModule/conf/LanguageISOCodeResponse.class" value="%50"/>
+  <alias path="/ConfEJB/ejbModule/conf/TLanguage.java" value="%51"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/FullCountryInfoAllCountriesResponse.java" value="%52"/>
+  <alias path="/ConfEJB/ejbModule/conf/LanguageISOCodeResponse.java" value="%53"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/TCountryCodeAndNameGroupedByContinent.class" value="%54"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryIntPhoneCode.java" value="%55"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfContinentsByName.java" value="%56"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryIntPhoneCodeResponse.java" value="%57"/>
+  <alias path="/ConfEJB/ejbModule/conf/TCountryCodeAndName.java" value="%58"/>
+  <alias path="/ConfEJB/ejbModule/conf/FullCountryInfoResponse.class" value="%59"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryName.java" value="%60"/>
+  <alias path="/ConfEJB/ejbModule/conf/CurrencyName.class" value="%61"/>
+  <alias path="/ConfEJB/ejbModule/conf/ObjectFactory.class" value="%62"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCountryNamesByCodeResponse.java" value="%63"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/CountriesUsingCurrencyResponse.java" value="%64"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfCountryNamesByName.class" value="%65"/>
+  <alias path="/ConfEJB/ejbModule/conf/TCountryInfo.java" value="%66"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryISOCode.class" value="%67"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCountryNamesGroupedByContinent.java" value="%68"/>
+  <alias path="/ConfEJB/ejbModule/conf/ArrayOftCountryCodeAndName.class" value="%69"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfLanguagesByCodeResponse.java" value="%70"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountriesUsingCurrency.java" value="%71"/>
+  <alias path="/ConfEJB/ejbModule/conf/CurrencyNameResponse.class" value="%72"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryCurrencyResponse.class" value="%73"/>
+  <alias path="/ConfEJB/ejbModule/conf/LanguageNameResponse.class" value="%74"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountriesUsingCurrency.class" value="%75"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCountryNamesGroupedByContinentResponse.class" value="%76"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryInfoServiceSoapType.class" value="%77"/>
+  <alias path="/ConfEJB/ejbModule/conf/ArrayOftCountryCodeAndName.java" value="%78"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCountryNamesByNameResponse.java" value="%79"/>
+  <alias path="/ConfEJB/ejbModule/conf/TLanguage.class" value="%80"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryNameResponse.java" value="%81"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfCountryNamesByCode.class" value="%82"/>
+  <alias path="/ConfEJB/ejbModule/conf/ArrayOftLanguage.class" value="%83"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfCurrenciesByName.java" value="%84"/>
+  <alias path="/ConfEJB/ejbModule/conf/LanguageISOCode.java" value="%85"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryISOCode.java" value="%86"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryISOCodeResponse.class" value="%87"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryFlagResponse.class" value="%88"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/FullCountryInfoAllCountriesResponse.class" value="%89"/>
+  <alias path="/ConfEJB/ejbModule/conf/TContinent.java" value="%90"/>
+  <alias path="/ConfEJB/ejbModule/conf/CapitalCityResponse.java" value="%91"/>
+  <alias path="/ConfEJB/ejbModule/conf/FullCountryInfo.java" value="%92"/>
+  <alias path="/ConfEJB/ejbModule/conf/FullCountryInfo.class" value="%93"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfCountryNamesGroupedByContinent.class" value="%94"/>
+  <alias path="/ConfEJB/ejbModule/conf/LanguageName.class" value="%95"/>
+  <alias path="/ConfEJB/ejbModule/conf/ArrayOftCurrency.class" value="%96"/>
+  <alias path="/ConfEJB/ejbModule/conf/CurrencyName.java" value="%97"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ArrayOftCountryCodeAndNameGroupedByContinent.class" value="%98"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryName.class" value="%99"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryInfoService.java" value="%100"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/TCountryCodeAndNameGroupedByContinent.java" value="%101"/>
+  <alias path="/ConfEJB/ejbModule/conf/LanguageNameResponse.java" value="%102"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryFlagResponse.java" value="%103"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ArrayOftCountryCodeAndNameGroupedByContinent.java" value="%104"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfContinentsByCode.class" value="%105"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/FullCountryInfoAllCountries.class" value="%106"/>
+  <alias path="/ConfEJB/ejbModule/conf/TCurrency.java" value="%107"/>
+  <alias
+   path="/ConfEJB/ejbModule/conf/ListOfContinentsByCodeResponse.class" value="%108"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryCurrency.java" value="%109"/>
+  <alias path="/ConfEJB/ejbModule/conf/ListOfCountryNamesByCode.java" value="%110"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryFlag.java" value="%111"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryFlag.class" value="%112"/>
+  <alias path="/ConfEJB/ejbModule/conf/ArrayOftLanguage.java" value="%113"/>
+  <alias path="/ConfEJB/ejbModule/conf/CountryCurrencyResponse.java" value="%114"/>
+  <alias path="/ConfEJB/ejbModule/conf/ArrayOftContinent.class" value="%115"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths/>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource
+    name="%1;%2;%3;%4;%5;%6;%7;%8;%9;%10;%11;%12;%13;%14;%15;%16;%17;%18;%19;%20;%21;%22;%23;%24;%25;%26;%27;%28;%29;%30;%31;%32;%33;%34;%35;%36;%37;%38;%39;%40;%41;%42;%43;%44;%45;%46;%47;%48;%49;%50;%51;%52;%53;%54;%55;%56;%57;%58;%59;%60;%61;%62;%63;%64;%65;%66;%67;%68;%69;%70;%71;%72;%73;%74;%75;%76;%77;%78;%79;%80;%81;%82;%83;%84;%85;%86;%87;%88;%89;%90;%91;%92;%93;%94;%95;%96;%97;%98;%99;%100;%101;%102;%103;%104;%105;%106;%107;%108;%109;%110;%111;%112;%113;%114;%115;" path="%0"/>
+  </core>
+  <core validator-id="batch-verification"/>
+  <el/>
+ </validation>
+ <aliases>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfLanguagesByCodeResponse.java" value="%1"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/package-info.java" value="%0"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/TLanguage.java" value="%2"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/TContinent.java" value="%3"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CurrencyNameResponse.class" value="%4"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfCurrenciesByCode.class" value="%5"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ObjectFactory.java" value="%6"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryFlagResponse.class" value="%7"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfLanguagesByNameResponse.java" value="%8"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CapitalCity.class" value="%9"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryName.class" value="%10"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryFlag.class" value="%11"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryName.java" value="%12"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryIntPhoneCode.class" value="%13"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ArrayOftCountryCodeAndName.class" value="%14"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesByNameResponse.class" value="%15"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryISOCode.java" value="%16"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfContinentsByCode.class" value="%17"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCurrenciesByNameResponse.java" value="%18"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/LanguageName.class" value="%19"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfContinentsByName.java" value="%20"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ObjectFactory.class" value="%21"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesByCode.java" value="%22"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/CountryInfoServiceSoapType.class" value="%23"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/FullCountryInfoResponse.java" value="%24"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfContinentsByNameResponse.java" value="%25"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/LanguageISOCodeResponse.java" value="%26"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfCurrenciesByName.class" value="%27"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesByNameResponse.java" value="%28"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/LanguageISOCode.class" value="%29"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCurrenciesByCodeResponse.java" value="%30"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ArrayOftCountryInfo.java" value="%31"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfCurrenciesByName.java" value="%32"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/package-info.class" value="%33"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CurrencyName.class" value="%34"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/CountriesUsingCurrencyResponse.class" value="%35"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountriesUsingCurrency.java" value="%36"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/TCountryCodeAndName.class" value="%37"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfCurrenciesByCode.java" value="%38"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CapitalCityResponse.class" value="%39"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfLanguagesByCode.java" value="%40"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ArrayOftCountryInfo.class" value="%41"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ArrayOftLanguage.java" value="%42"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryIntPhoneCode.java" value="%43"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesGroupedByContinent.java" value="%44"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfContinentsByCodeResponse.class" value="%45"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/FullCountryInfo.class" value="%46"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ArrayOftLanguage.class" value="%47"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfLanguagesByName.class" value="%48"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/LanguageNameResponse.class" value="%49"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/CountryIntPhoneCodeResponse.class" value="%50"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ArrayOftCurrency.class" value="%51"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryFlag.java" value="%52"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesGroupedByContinentResponse.class" value="%53"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryISOCodeResponse.java" value="%54"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/LanguageISOCodeResponse.class" value="%55"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ArrayOftCountryCodeAndNameGroupedByContinent.java" value="%56"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/TCountryCodeAndNameGroupedByContinent.java" value="%57"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/TCountryInfo.java" value="%58"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/FullCountryInfoAllCountriesResponse.class" value="%59"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfContinentsByCode.java" value="%60"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryNameResponse.class" value="%61"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/TCountryCodeAndName.java" value="%62"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesByCode.class" value="%63"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryCurrencyResponse.java" value="%64"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryNameResponse.java" value="%65"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCurrenciesByNameResponse.class" value="%66"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/FullCountryInfoAllCountries.java" value="%67"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/CountriesUsingCurrencyResponse.java" value="%68"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/FullCountryInfoAllCountries.class" value="%69"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfContinentsByNameResponse.class" value="%70"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CurrencyNameResponse.java" value="%71"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesByCodeResponse.java" value="%72"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CapitalCityResponse.java" value="%73"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfContinentsByName.class" value="%74"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfLanguagesByName.java" value="%75"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/TCurrency.class" value="%76"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ArrayOftCountryCodeAndName.java" value="%77"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ArrayOftContinent.class" value="%78"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ArrayOftCountryCodeAndNameGroupedByContinent.class" value="%79"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CapitalCity.java" value="%80"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryISOCodeResponse.class" value="%81"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfLanguagesByNameResponse.class" value="%82"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryFlagResponse.java" value="%83"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesByName.class" value="%84"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/LanguageISOCode.java" value="%85"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfLanguagesByCodeResponse.class" value="%86"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfContinentsByCodeResponse.java" value="%87"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/TLanguage.class" value="%88"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/TContinent.class" value="%89"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesGroupedByContinentResponse.java" value="%90"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryInfoService.java" value="%91"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfLanguagesByCode.class" value="%92"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/FullCountryInfo.java" value="%93"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/LanguageName.java" value="%94"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ArrayOftContinent.java" value="%95"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CurrencyName.java" value="%96"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/CountryIntPhoneCodeResponse.java" value="%97"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryISOCode.class" value="%98"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ArrayOftCurrency.java" value="%99"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryCurrency.class" value="%100"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesGroupedByContinent.class" value="%101"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesByName.java" value="%102"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryInfoServiceSoapType.java" value="%103"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCurrenciesByCodeResponse.class" value="%104"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryCurrency.java" value="%105"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/FullCountryInfoAllCountriesResponse.java" value="%106"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountriesUsingCurrency.class" value="%107"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/FullCountryInfoResponse.class" value="%108"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/LanguageNameResponse.java" value="%109"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/ListOfCountryNamesByCodeResponse.class" value="%110"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryCurrencyResponse.class" value="%111"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/TCurrency.java" value="%112"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/TCountryInfo.class" value="%113"/>
+  <alias path="/DrzavaEJB/ejbModule/rsd/CountryInfoService.class" value="%114"/>
+  <alias
+   path="/DrzavaEJB/ejbModule/rsd/TCountryCodeAndNameGroupedByContinent.class" value="%115"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

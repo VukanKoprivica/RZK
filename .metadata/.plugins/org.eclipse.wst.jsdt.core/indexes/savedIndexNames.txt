@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+C:\Users\vukan\faks\eclipse-workspace-rzk\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3948453472.index
+4004743094.index
+2916635018.index
+792641292.index
+2422870261.index
+2945067441.index
+37337163.index
+179641982.index
+1178656938.index
+1309110962.index
+3611424111.index
